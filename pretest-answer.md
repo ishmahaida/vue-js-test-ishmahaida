@@ -23,7 +23,7 @@ v-on:click
 6. What usage of Computed Properties ?  
 <br />
 7. What usage of Watch Properties ?
-<br /> 
+<br /> - Untuk review data pada saat melakukan edit data
 8. How to handling input in Vue ?
 ```
 <input v-model="text">
