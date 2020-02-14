@@ -24,14 +24,16 @@ v-on:click
 <br />
 7. What usage of Watch Properties ?
 <br /> - Untuk review data pada saat melakukan edit data
+7. What usage of Watch Properties ?
+<br /> property yang digunakan untuk melakukan asynchronous 
 8. How to handling input in Vue ?
+<br / >dengan menggunakan 
 ```
-<input v-model="text">
+v-model
 ```
-9. How to make class html tag receive property ? 
-<br /> - Gunakan : 
+9. How to make class html tag receive property ?
+<br />dengan menggunakan props sepertie
+10. How to make conditional rendering in vue ?
 ```
-v-bind:class
+v-if
 ```
-10. How to make conditional rendering in vue ? 
-<br /> - Gunakan v-if jika true, jika false menggunakan v-else
