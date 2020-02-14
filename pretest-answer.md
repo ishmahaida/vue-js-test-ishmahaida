@@ -23,4 +23,4 @@ v-on:click
 6. What usage of Computed Properties ?  
 <br />
 7. What usage of Watch Properties ?
-<br /> Untuk review data pada saat melakukan edit data
+<br /> - Untuk review data pada saat melakukan edit data
