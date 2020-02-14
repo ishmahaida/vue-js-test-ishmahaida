@@ -28,3 +28,10 @@ v-on:click
 ```
 <input v-model="text">
 ```
+9. How to make class html tag receive property ? 
+<br /> - Gunakan : 
+```
+v-bind:class=''
+```
+10. How to make conditional rendering in vue ? 
+<br /> - Gunakan v-if jika true, jika false menggunakan v-else
