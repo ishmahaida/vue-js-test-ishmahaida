@@ -23,17 +23,8 @@ v-on:click
 6. What usage of Computed Properties ?  
 <br />
 7. What usage of Watch Properties ?
-<br /> - Untuk review data pada saat melakukan edit data
-7. What usage of Watch Properties ?
-<br /> property yang digunakan untuk melakukan asynchronous 
+<br /> 
 8. How to handling input in Vue ?
-<br / >dengan menggunakan 
 ```
-v-model
-```
-9. How to make class html tag receive property ?
-<br />dengan menggunakan props sepertie
-10. How to make conditional rendering in vue ?
-```
-v-if
+<input v-model="text">
 ```
