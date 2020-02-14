@@ -24,6 +24,7 @@ v-on:click
 <br />
 7. What usage of Watch Properties ?
 <br /> - Untuk review data pada saat melakukan edit data
+
 8. How to handling input in Vue ?
 ```
 <input v-model="text">
@@ -35,3 +36,25 @@ v-bind:class=''
 ```
 10. How to make conditional rendering in vue ? 
 <br /> - Gunakan v-if jika true, jika false menggunakan v-else
+11. How we can render list in vue ? 
+<br /> - Menggunakan v-for 
+12. If we rendering list there must be bind key tag describe usage of it ?
+<br /> - untuk mengetahui list yang sudah di render
+13. How we can handling input in vue ?
+<br /> - Menggunakan <input v-model="text">
+14. What is props describe it ? 
+```
+new Vue({
+  props:{
+    name:String
+  }
+})
+```
+15. What is component in vue ? 
+```
+Vue.extend():
+```
+16. How to pass property from parent component to child component ?
+<br /> - Menggunakan props
+17. What is Vuex ? 
+<br /> - Library untuk vue
